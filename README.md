@@ -41,6 +41,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
+    ![read me](assets/images/read-me.png)
 
 ## Contributing
 Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
@@ -49,5 +50,7 @@ Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fo
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-Project Link: http
+[TxmMinh] - [contact@txmminh.com]
+
+Project Link: [http](https://github.com/txm-minh21/How-to-write-a-README)
  
