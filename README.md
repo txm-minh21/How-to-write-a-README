@@ -20,17 +20,23 @@ Provide a short description explaining the what, why, and how of your project. U
 - [License](#license)
 
 ## Getting Started
+
 Follow the instructions below to set up the project on your local machine for development and testing purposes.
+
 ### Technology
+
 What your technology
 
 ### Installation
+
 What are the steps required to install your project
+
 1. Clone the repository:
 
 ```git clone git remote add origin git@github.com🔗link```
 
 2. Navigate to the project directory:
+  
 3. Build and package each component with Maven:
 
 ## Usage
@@ -46,12 +52,15 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![read me](assets/images/read-me.png)
 
 ## Contributing
+
 Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
 
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
+
 [TxmMinh] - [contact@txmminh.com]
 
 Project Link: [http](https://github.com/txm-minh21/How-to-write-a-README)
