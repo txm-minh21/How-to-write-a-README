@@ -41,7 +41,10 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
-    ![read me](assets/images/read-me.png)
+    
+![read me](assets/images/read-me.png)
+
+<img src="assets/images/read-me.png" width="300" />
 
 ## Contributing
 Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
