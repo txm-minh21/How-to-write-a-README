@@ -1,4 +1,5 @@
 # Your-Project-Title
+<img src="assets/images/read-me.png" width="1000" />
 
 ## Description
 
@@ -43,8 +44,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```
     
 ![read me](assets/images/read-me.png)
-
-<img src="assets/images/read-me.png" width="300" />
 
 ## Contributing
 Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
